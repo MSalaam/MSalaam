@@ -10,10 +10,10 @@ Computer Science graduate in pursuit of a Cybersecurity or App Development. A qu
 
 - Languages I've worked with:
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg"  title="Cplusplus" alt="C++" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="py" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg"  title="Cplusplus" alt="C++" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </div>
 
@@ -32,11 +32,11 @@ Computer Science graduate in pursuit of a Cybersecurity or App Development. A qu
 
 - Projects or certificates I've completed
     - COMPTIA Security+ Certification
-    - Graduation project: 
-    - Online Bookstore
+    - Graduation project:
+         *Online Bookstore*
         * Set up inventory using MySQLWorkbench + DBrowser
         * Created 5+ relational tables
-        * SQL retreival queries
+        * SQL retrieval queries
         * Real-time updates to inventory with incoming/outgoing orders
 
 - Pursuits:
