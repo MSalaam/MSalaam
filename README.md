@@ -54,34 +54,33 @@ Computer Science graduate in pursuit of a Cybersecurity or App Development. A qu
 
 ## Freshman Coursework
 
-#
-# 
-#
-#
+[![Comp1210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp1210&theme=transparent)](https://github.com/MSalaam/COMP1210)
+[![Comp1210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp1210&theme=transparent)](https://github.com/MSalaam/COMP2210)
+
 
 <br>
 
 ## Sophomore Coursework
 
-#
-#
-#
-#
+[![Comp1210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp1210&theme=transparent)](https://github.com/MSalaam/COMP2710)
+[![Comp1210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp1210&theme=transparent)](https://github.com/MSalaam/COMP3220)
+[![Comp1210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp1210&theme=transparent)](https://github.com/MSalaam/COMP3270)
+[![Comp1210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp1210&theme=transparent)](https://github.com/MatthewBentz/Comp3350)
+
 
 <br>
 
 ## Junior Coursework
 
-#
-#
-#
-#
+[![Comp1210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp1210&theme=transparent)](https://github.com/MatthewBentz/Comp3500)
+[![Comp1210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp1210&theme=transparent)](https://github.com/MatthewBentz/Comp4200)
+[![Comp1210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp1210&theme=transparent)](https://github.com/MatthewBentz/Comp4300)
+
 
 <br>
 
 ## Senior Coursework
 
-#
-#
-#
-#
+[![Comp1210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp1210&theme=transparent)](https://github.com/MatthewBentz/Comp4730)
+[![Comp1210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp1210&theme=transparent)](https://github.com/MatthewBentz/Comp5710)
+[![Comp1210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp1210&theme=transparent)](https://github.com/MatthewBentz/Comp5120)
