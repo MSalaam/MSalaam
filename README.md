@@ -22,7 +22,7 @@ OVERVIEW
     #
     #
 
-- Reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-salaam-16b670245/)
+- Reach out to me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohammed-salaam-16b670245/)
 
 
 
