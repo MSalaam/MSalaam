@@ -52,6 +52,7 @@ Computer Science graduate in pursuit of a Cybersecurity or App Development caree
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSalaam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ## Freshman Coursework
 
 [![Comp1210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Comp1210&theme=transparent)](https://github.com/MSalaam/COMP1210)
