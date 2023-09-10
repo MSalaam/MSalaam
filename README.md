@@ -81,6 +81,6 @@ Computer Science graduate in pursuit of a Cybersecurity or App Development. A qu
 
 ## Senior Coursework
 
-[![Comp4730 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Comp4370&theme=transparent)](https://github.com/MSalaam/COMP4730)
 [![Comp5710 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Comp5710&theme=transparent)](https://github.com/MSalaam/COMP5710)
+[![Comp4730 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Comp4370&theme=transparent)](https://github.com/MSalaam/COMP4730)
 [![Comp5120 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Comp5120&theme=transparent)](https://github.com/MSalaam/COMP5120)
