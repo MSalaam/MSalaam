@@ -3,7 +3,7 @@
 <br>
 
 ## OVERVIEW
-Computer Science graduate in pursuit of a Cybersecurity or App Development. A quick learner and a perfectionist with ambition to be proficient in all needed skills. Adaptable and an excellent problem-solver with all situations thrown at me. Interested in all things computer related with an interest in psychology and communication with others.
+Computer Science graduate in pursuit of a Cybersecurity or App Development career. A quick learner and a perfectionist with ambition to be proficient in all needed skills. Adaptable and an excellent problem-solver with all situations thrown at me. Interested in all things computer related with an interest in psychology and communication with others.
 
 ---
 <br>
