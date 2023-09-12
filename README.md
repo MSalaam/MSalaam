@@ -51,7 +51,7 @@ Computer Science graduate in pursuit of a Cybersecurity or App Development caree
     
 
 - Reach out to me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohammed-salaam-16b670245/)
-- Take a look at my CV [here](https://github.com/MSalaam/MSalaam/blob/main/Mohammed%20Salaam%20CV.pdf)
+- Take a look at my CV [here](https://github.com/MSalaam/MSalaam/blob/main/Mohammed%20Salaam%20CV.pdf) 
 
 
 ---
