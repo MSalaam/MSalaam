@@ -34,10 +34,16 @@ Computer Science graduate in pursuit of a Cybersecurity or App Development caree
     - COMPTIA Security+ Certification
     - Graduation project:
          *Online Bookstore*
+        * Programmed entire project using HTML, PHP, Java
         * Set up inventory using MySQLWorkbench + DBrowser
         * Created 5+ relational tables
         * SQL retrieval queries
         * Real-time updates to inventory with incoming/outgoing orders
+    - Intern project:
+        * Conducted sweeping network audits and penetration testing to identify weaknesses and implemented 5+ solutions to reduce future breaches
+        * Developed an integrated approach to securing the client network from compromising threats via phishing attacks
+        * Managed and implemented access control systems that increased security and decreased human error by 82%
+
 
 - Pursuits:
     - Building my own website 
