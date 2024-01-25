@@ -33,16 +33,16 @@ Computer Science graduate. Cybersecurity Specialist. A quick learner and a perfe
     * OSINT         
     * OWASP
     
-    - SIEM Tools
+    - **SIEM Tools**
     * Nessus        
     * Splunk
     
-    - Network Monitoring and packet analysis
+    - **Network Monitoring and packet analysis**
     * Nmap          
     * Wireshark
     * TCPdump
     
-    - Penentration testing
+    - **Penentration testing**
     * Metasploit
 
 - Projects or certificates I've completed
