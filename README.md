@@ -31,14 +31,14 @@ Computer Science graduate. Cybersecurity Specialist. A quick learner and a perfe
 
 - Cybersecurity frameworks I've worked with:
 <div>
-    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/OSINT-logo.png" title="OSINT" alt="OSINT" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/OWASP-logo.png" title="OWASP" alt="OWASP" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/nessus-logo.png" title="Nesus" alt="nessus" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/OSINT-logo.png" title="OSINT" alt="OSINT" width="60" height="40"/>&nbsp;
+    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/OWASP-logo.png" title="OWASP" alt="OWASP" width="60" height="40"/>&nbsp;
+    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/nessus-logo.png" title="Nesus" alt="nessus" width="60" height="40"/>&nbsp;
     <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/splunk-logo.png" title="splunk" **alt="splunk" width="40" height="40"/>
     <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/nmap-logo.png" title="nmap"  alt="nmap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/wireshark-logo.png" title="wireshark"  alt="wireshark" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/tcpdump-logo.png" title="tcpdump"  alt="tcpdump" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/metasploit-logo.png" title="metasploit"  alt="metasploit" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/tcpdump-logo.png" title="tcpdump"  alt="tcpdump" width="60" height="40"/>&nbsp;
+    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/metasploit-logo.jpeg" title="metasploit"  alt="metasploit" width="40" height="40"/>&nbsp;
 </div>
 
 
