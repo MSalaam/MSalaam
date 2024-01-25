@@ -3,7 +3,7 @@
 <br>
 
 ## OVERVIEW
-Computer Science graduate in pursuit of a Cybersecurity or App Development career. A quick learner and a perfectionist with ambition to be proficient in all needed skills. Adaptable and an excellent problem-solver with all situations thrown at me. Interested in all things computer related with an interest in psychology and communication with others.
+Computer Science graduate. Cybersecurity Specialist. A quick learner and a perfectionist with ambition to be proficient in all needed skills. Adaptable and an excellent problem-solver with all situations challenged by. Interested in all things computer related with an interest in psychology and communication.
 
 ---
 <br>
@@ -18,8 +18,7 @@ Computer Science graduate in pursuit of a Cybersecurity or App Development caree
 </div>
 
 
-
-- Frameworks I've worked with:
+- Coding frameworks I've worked with:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -27,11 +26,24 @@ Computer Science graduate in pursuit of a Cybersecurity or App Development caree
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" **alt="Sqlite" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode"  alt="Xcode" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VisualStudio"  alt="VStudio" width="40" height="40"/>&nbsp;
-
 </div>
+
+
+- Cybersecurity frameworks I've worked with:
+    * OSINT         * OWASP
+    - SIEM Tools
+    * Nessus        * Splunk
+    - Network Monitoring and packet analysis
+    * Nmap          * Wireshark
+    * TCPdump
+    - Penentration testing
+    * Metasploit
 
 - Projects or certificates I've completed
     - COMPTIA Security+ Certification
+    - Google Cybersecurity Certification
+    - Security Blue Team Junior Analyst (BTJA) training
+
     - Graduation project:
          *Online Bookstore*
         * Programmed entire project using HTML, PHP, Java
@@ -46,8 +58,10 @@ Computer Science graduate in pursuit of a Cybersecurity or App Development caree
 
 
 - Pursuits:
+    - IBM Cybersecurity Analyst Professional Certification
     - Building my own website 
-    - COMPTIA CySA+ certification 
+    - Career in Cybersecurity SOC
+    
     
 
 - Reach out to me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohammed-salaam-16b670245/)
