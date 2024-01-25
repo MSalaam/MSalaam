@@ -41,11 +41,13 @@ Computer Science graduate. Cybersecurity Specialist. A quick learner and a perfe
     <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/metasploit-logo.jpeg" title="metasploit"  alt="metasploit" width="40" height="40"/>&nbsp;
 </div>
 
+- Certifications: 
 
-- Projects or certificates I've completed
     - COMPTIA Security+ Certification
     - Google Cybersecurity Certification
     - Security Blue Team Junior Analyst (BTJA) training
+
+- Projects:
 
     - Graduation project:
          *Online Bookstore*
