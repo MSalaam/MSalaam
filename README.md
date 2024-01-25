@@ -67,7 +67,7 @@ Computer Science graduate. Cybersecurity Specialist. A quick learner and a perfe
     
     
 
-- Reach out to me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohammed-salaam-16b670245/)
+- Reach out to me on [Linkedin](https://www.linkedin.com/in/mohammed-salaam-16b670245/)
 - Take a look at my CV [here](https://github.com/MSalaam/MSalaam/blob/main/assets/Mohammed%20Salaam%20CV.pdf)
 
 
