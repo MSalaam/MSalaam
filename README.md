@@ -30,12 +30,18 @@ Computer Science graduate. Cybersecurity Specialist. A quick learner and a perfe
 
 
 - Cybersecurity frameworks I've worked with:
-    * OSINT         * OWASP
+    * OSINT         
+    * OWASP
+    
     - SIEM Tools
-    * Nessus        * Splunk
+    * Nessus        
+    * Splunk
+    
     - Network Monitoring and packet analysis
-    * Nmap          * Wireshark
+    * Nmap          
+    * Wireshark
     * TCPdump
+    
     - Penentration testing
     * Metasploit
 
