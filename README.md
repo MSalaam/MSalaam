@@ -61,7 +61,7 @@ Computer Science graduate. Cybersecurity Specialist. A quick learner and a perfe
 
 
 - Pursuits:
-    - IBM Cybersecurity Analyst Professional Certification
+    - ISACA Certified Information Security Manager (CISM)
     - Building my own website 
     - Career in Cybersecurity SOC
     
