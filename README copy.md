@@ -21,7 +21,6 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-
 ### Development Tools & Frameworks
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -31,14 +30,14 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ### Cybersecurity Tools
-![OSINT](https://img.shields.io/badge/-OSINT-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAABB0lEQVR42mNgoAAwkqrRX19fX0VHR+e/rq7uVJI16unp8evo6Pzz8/P7b2xsLEKSRl1dXUFtbe3/QUFBYNNIdsCuri6/pqbmf3Nz8//KysoESB+PsbGxMlARh5GRkShRprq7u4uDnA90YjeRGkE2/7e2tv4fHR39PyQk5L+3t3e9k5OTMFyjnp6eKzBwwk1NTbmgAePp6ckOVxwYGCiho6Oz3NHL77+rnfV/Q0NDDmwBwWBiYsKip6d3wScw9H9SZNj/0NBQbpI06ujo8AYEBPwvLy//7+DgwEeSRm1tbSEgzf+Li4v/A/0uTJLTtbW1hYE0/8/KyvrPzs7OSJLNIAAAxZFwTZ5wrf4AAAAASUVORK5CYII=)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp)
-![Nessus](https://img.shields.io/badge/-Nessus-00B32C?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/-OSINT-3498DB?style=for-the-badge&logo=internetexplorer&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-207398?style=for-the-badge&logo=owasp&logoColor=white)
+![Nessus](https://img.shields.io/badge/-Nessus-00B32C?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-FF375F?style=for-the-badge&logo=splunk&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-E34F26?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![TCPDump](https://img.shields.io/badge/-TCPDump-000000?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit)
+![TCPDump](https://img.shields.io/badge/-TCPDump-4B275F?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ## 🚀 Featured Projects
 
