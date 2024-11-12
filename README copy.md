@@ -15,23 +15,20 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
 ## 🔧 Technical Skills
 
 ### Programming Languages
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="py" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg"  title="Cplusplus" alt="C++" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-</div>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 ### Development Tools & Frameworks
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" **alt="Sqlite" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode"  alt="Xcode" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VisualStudio"  alt="VStudio" width="40" height="40"/>&nbsp;
-</div>
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ### Cybersecurity Tools
 ![OSINT](https://img.shields.io/badge/-OSINT-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAABB0lEQVR42mNgoAAwkqrRX19fX0VHR+e/rq7uVJI16unp8evo6Pzz8/P7b2xsLEKSRl1dXUFtbe3/QUFBYNNIdsCuri6/pqbmf3Nz8//KysoESB+PsbGxMlARh5GRkShRprq7u4uDnA90YjeRGkE2/7e2tv4fHR39PyQk5L+3t3e9k5OTMFyjnp6eKzBwwk1NTbmgAePp6ckOVxwYGCiho6Oz3NHL77+rnfV/Q0NDDmwBwWBiYsKip6d3wScw9H9SZNj/0NBQbpI06ujo8AYEBPwvLy//7+DgwEeSRm1tbSEgzf+Li4v/A/0uTJLTtbW1hYE0/8/KyvrPzs7OSJLNIAAAxZFwTZ5wrf4AAAAASUVORK5CYII=)
