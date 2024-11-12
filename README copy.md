@@ -34,16 +34,14 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
 </div>
 
 ### Cybersecurity Tools
-<div>
-    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/OSINT-logo.png" title="OSINT" alt="OSINT" width="60" height="40"/>&nbsp;
-    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/OWASP-logo.png" title="OWASP" alt="OWASP" width="60" height="40"/>&nbsp;
-    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/nessus-logo.png" title="Nesus" alt="nessus" width="60" height="40"/>&nbsp;
-    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/splunk-logo.png" title="splunk" **alt="splunk" width="40" height="40"/>
-    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/nmap-logo.png" title="nmap"  alt="nmap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/wireshark-logo.png" title="wireshark"  alt="wireshark" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/tcpdump-logo.png" title="tcpdump"  alt="tcpdump" width="60" height="40"/>&nbsp;
-    <img src="https://github.com/MSalaam/MSalaam/blob/main/assets/metasploit-logo.jpeg" title="metasploit"  alt="metasploit" width="40" height="40"/>&nbsp;
-</div>
+![OSINT](https://img.shields.io/badge/-OSINT-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAABB0lEQVR42mNgoAAwkqrRX19fX0VHR+e/rq7uVJI16unp8evo6Pzz8/P7b2xsLEKSRl1dXUFtbe3/QUFBYNNIdsCuri6/pqbmf3Nz8//KysoESB+PsbGxMlARh5GRkShRprq7u4uDnA90YjeRGkE2/7e2tv4fHR39PyQk5L+3t3e9k5OTMFyjnp6eKzBwwk1NTbmgAePp6ckOVxwYGCiho6Oz3NHL77+rnfV/Q0NDDmwBwWBiYsKip6d3wScw9H9SZNj/0NBQbpI06ujo8AYEBPwvLy//7+DgwEeSRm1tbSEgzf+Li4v/A/0uTJLTtbW1hYE0/8/KyvrPzs7OSJLNIAAAxZFwTZ5wrf4AAAAASUVORK5CYII=)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp)
+![Nessus](https://img.shields.io/badge/-Nessus-00B32C?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk)
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![TCPDump](https://img.shields.io/badge/-TCPDump-000000?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit)
 
 ## 🚀 Featured Projects
 
@@ -63,6 +61,7 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
 - ISACA Certified Information Security Manager (CISM)
 - Personal website development
 - Career advancement in Cybersecurity SOC
+
 ## 📚 Academic Portfolio
 
 ### Senior Year
