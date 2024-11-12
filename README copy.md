@@ -59,6 +59,10 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
 - Developed anti-phishing security measures
 - Reduced human error by 82% through access control implementation
 
+## 🎯 Current Pursuits
+- ISACA Certified Information Security Manager (CISM)
+- Personal website development
+- Career advancement in Cybersecurity SOC
 ## 📚 Academic Portfolio
 
 ### Senior Year
@@ -77,10 +81,6 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
 ## 📈 GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSalaam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🎯 Current Pursuits
-- ISACA Certified Information Security Manager (CISM)
-- Personal website development
-- Career advancement in Cybersecurity SOC
 
 ---
 *"Security is not a product, but a process." - Bruce Schneier*
