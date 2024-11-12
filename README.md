@@ -1,18 +1,18 @@
 # Mohammed Salaam
-### Computer Science Graduate & Cybersecurity Specialist 🔐
+### Computer Science Graduate & Cybersecurity Specialist 
 
 [![Linkedin](https://img.shields.io/badge/-Mohammed_Salaam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-salaam-16b670245/)
 [![CV](https://img.shields.io/badge/-Resume-red?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/MSalaam/MSalaam/blob/main/assets/Mohammed%20Salaam%20CV.pdf)
 
-## About Me 👨‍💻
+## About Me 
 I'm a Computer Science graduate specializing in Cybersecurity. As a quick learner and perfectionist, I strive for excellence in all technical challenges. My expertise spans across software development, network security, and system administration, with a keen interest in psychology and communication.
 
-## 🛡️ Certifications
+##  Certifications
 - CompTIA Security+ Certified
 - Google Cybersecurity Professional
 - Security Blue Team Junior Analyst (BTJA)
 
-## 🔧 Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,7 +39,7 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
 ![TCPDump](https://img.shields.io/badge/-TCPDump-4B275F?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### Online Bookstore (Graduation Project)
 - Full-stack development using HTML, PHP, and Java
@@ -53,12 +53,12 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
 - Developed anti-phishing security measures
 - Reduced human error by 82% through access control implementation
 
-## 🎯 Current Pursuits
+##  Current Pursuits
 - ISACA Certified Information Security Manager (CISM)
 - Personal website development
 - Career advancement in Cybersecurity SOC
 
-## 📚 Academic Portfolio
+##  Academic Portfolio
 
 ### Senior Year
 [![Comp5710](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Comp5710&theme=transparent)](https://github.com/MSalaam/COMP5710)
