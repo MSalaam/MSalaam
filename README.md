@@ -41,17 +41,32 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
 
 ##  Featured Projects
 
-### Online Bookstore (Graduation Project)
-- Full-stack development using HTML, PHP, and Java
-- Implemented real-time inventory management system
-- Designed and maintained 5+ relational database tables
-- Created dynamic SQL queries for inventory tracking
+## Security Infrastructure Implementations
+[![OSSIEM](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=OSSIEM&theme=transparent)](https://github.com/MSalaam/OSSIEM)
+
+### Open Source SIEM Stack Implementation
+- Successfully deployed and configured SOCFortress' comprehensive Open Source SIEM (Security Information and Event Management) infrastructure
+- Integrated and configured multiple security components including:
+  - Wazuh Manager for security monitoring and threat detection
+  - Graylog for centralized log management and analysis
+  - Velociraptor for endpoint monitoring and digital forensics
+  - CoPilot for streamlined security operations
+- Implemented custom Wazuh rules and configurations for enhanced threat detection
+- Configured SSL certificates and security protocols for secure communication between components
+- Demonstrated proficiency in Docker containerization for security tool deployment
+- Executed complex integration processes including Java Keystore configurations and API implementations
 
 ### Security Infrastructure (Internship)
 - Conducted comprehensive network audits and penetration testing
 - Implemented 5+ security solutions to prevent breaches
 - Developed anti-phishing security measures
 - Reduced human error by 82% through access control implementation
+
+### Online Bookstore (Graduation Project)
+- Full-stack development using HTML, PHP, and Java
+- Implemented real-time inventory management system
+- Designed and maintained 5+ relational database tables
+- Created dynamic SQL queries for inventory tracking
 
 ##  Current Pursuits
 - ISACA Certified Information Security Manager (CISM)
