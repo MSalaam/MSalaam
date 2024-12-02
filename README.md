@@ -41,9 +41,6 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
 
 ##  Featured Projects
 
-## Security Infrastructure Implementations
-[![OSSIEM](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=OSSIEM&theme=transparent)](https://github.com/MSalaam/OSSIEM)
-
 ### Open Source SIEM Stack Implementation
 - Successfully deployed and configured SOCFortress' comprehensive Open Source SIEM (Security Information and Event Management) infrastructure
 - Integrated and configured multiple security components including:
