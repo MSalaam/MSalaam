@@ -48,7 +48,6 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
 
 ### Product Management & Leadership
 - Agile Methodologies
-  - Scrum and Kanban framework implementation
   - Sprint planning and backlog prioritization
   - Daily standups and sprint retrospectives
   - Continuous integration/continuous deployment (CI/CD) oversight
@@ -86,10 +85,10 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
   - Performance optimization with lazy loading and caching
   - Analytics integration for user behavior tracking
 - Notable Projects:
-  - Deplan Agency Website
-  - Satr IT Corporate Platform
-  - 12Stages Digital Presence
-  - Level8 Design Portfolio
+  - Deplan Agency website
+  - Satr IT website
+  - 12Stages website
+  - Level8 Design Portfolio website
 
 ### Open Source SIEM Stack Implementation
 - Successfully deployed and configured SOCFortress' comprehensive Open Source SIEM (Security Information and Event Management) infrastructure
