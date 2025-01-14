@@ -7,6 +7,12 @@
 ## About Me 
 I'm a Computer Science graduate specializing in Cybersecurity. As a quick learner and perfectionist, I strive for excellence in all technical challenges. My expertise spans across software development, network security, and system administration, with a keen interest in psychology and communication.
 
+## Current Role: Technical Product Manager
+- Lead a cross-functional team of 13 developers, coordinating mobile app development and website projects
+- Interface directly with C-level executives, business stakeholders, and investors to translate business requirements into technical specifications
+- Successfully delivered multiple high-impact projects including e-commerce payment solutions and enterprise websites
+- Drive product roadmap development and sprint planning while ensuring alignment with business objectives
+
 ##  Certifications
 - CompTIA Security+ Certified
 - Google Cybersecurity Professional
@@ -20,6 +26,7 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Development Tools & Frameworks
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -39,7 +46,50 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
 ![TCPDump](https://img.shields.io/badge/-TCPDump-4B275F?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
 
+### Product Management & Leadership
+- Agile Methodologies
+  - Scrum and Kanban framework implementation
+  - Sprint planning and backlog prioritization
+  - Daily standups and sprint retrospectives
+  - Continuous integration/continuous deployment (CI/CD) oversight
+- Stakeholder Management
+  - Direct collaboration with C-level executives and investors
+  - Requirements gathering and documentation
+  - Product roadmap development
+  - Risk assessment and mitigation strategies
+- Technical Leadership
+  - Leading a team of 13 developers across multiple projects
+  - Code review process implementation
+  - Technical documentation standards
+  - Architecture decision records (ADRs)
+
 ##  Featured Projects
+
+### Dafea Payment Integration Platform
+- Architected and deployed a comprehensive payment integration platform integrating Tap and Moyaser payment gateways
+- Implemented critical system features including:
+  - Multi-layer security architecture with tokenization and end-to-end encryption
+  - Real-time payment processing with 99.9% uptime SLA
+  - Automated reconciliation system for transaction verification
+  - Load balancing and failover mechanisms for high availability
+- Integrated multiple third-party services:
+  - RESTful APIs for shipping carriers with real-time tracking
+  - SMS gateway integration for OTP verification (2FA)
+  - Email notification system for transaction alerts
+- Achieved PCI DSS compliance through secure API design and implementation
+- Reduced payment processing time by 40% while maintaining robust error handling
+
+### Enterprise Web Solutions
+- Led development of multiple corporate websites utilizing modern tech stack:
+  - Responsive design implementation with mobile-first approach
+  - SEO optimization achieving 90+ lighthouse scores
+  - Performance optimization with lazy loading and caching
+  - Analytics integration for user behavior tracking
+- Notable Projects:
+  - Deplan Agency Website
+  - Satr IT Corporate Platform
+  - 12Stages Digital Presence
+  - Level8 Design Portfolio
 
 ### Open Source SIEM Stack Implementation
 - Successfully deployed and configured SOCFortress' comprehensive Open Source SIEM (Security Information and Event Management) infrastructure
