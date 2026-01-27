@@ -138,9 +138,6 @@ complex and dynamic environment
 ### Open source Cybersecurity stack implemenation
 [![OSSIEM](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=OSSIEM&theme=transparent)](https://github.com/MSalaam/OSSIEM)
 
-### AI & Security Automation
-[![Sentinel-Apex](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Sentinel-Pro&theme=transparent)](https://github.com/MSalaam/Sentinel-Pro)
-
 ### Senior Year
 [![Comp5710](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Comp5710&theme=transparent)](https://github.com/MSalaam/COMP5710)
 [![Comp5120](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Comp5120&theme=transparent)](https://github.com/MSalaam/COMP5120)
