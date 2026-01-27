@@ -132,6 +132,9 @@ complex and dynamic environment
 
 ##  Portfolio
 
+### AI & Security Automation
+[![Sentinel-Apex](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Sentinel-Pro&theme=transparent)](https://github.com/MSalaam/Sentinel-Pro)
+
 ### Open source Cybersecurity stack implemenation
 [![OSSIEM](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=OSSIEM&theme=transparent)](https://github.com/MSalaam/OSSIEM)
 
