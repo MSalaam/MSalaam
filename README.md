@@ -47,9 +47,6 @@ complex and dynamic environment
 ![TCPDump](https://img.shields.io/badge/-TCPDump-4B275F?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
 
-### AI & Security Automation
-[![Sentinel-Apex](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Sentinel-Pro&theme=transparent)](https://github.com/MSalaam/Sentinel-Pro)
-
 ### Product Management & Leadership
 - Agile Methodologies
   - Sprint planning and backlog prioritization
@@ -137,6 +134,9 @@ complex and dynamic environment
 
 ### Open source Cybersecurity stack implemenation
 [![OSSIEM](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=OSSIEM&theme=transparent)](https://github.com/MSalaam/OSSIEM)
+
+### AI & Security Automation
+[![Sentinel-Apex](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Sentinel-Pro&theme=transparent)](https://github.com/MSalaam/Sentinel-Pro)
 
 ### Senior Year
 [![Comp5710](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Comp5710&theme=transparent)](https://github.com/MSalaam/COMP5710)
