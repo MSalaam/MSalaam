@@ -48,7 +48,7 @@ complex and dynamic environment
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ### AI & Security Automation
-[![Sentinel-Apex](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Sentinel-Apex&theme=transparent)](https://github.com/MSalaam/Sentinel-Apex)
+[![Sentinel-Apex](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Sentinel-Pro&theme=transparent)](https://github.com/MSalaam/Sentinel-Pro)
 
 ### Product Management & Leadership
 - Agile Methodologies
@@ -68,7 +68,7 @@ complex and dynamic environment
 
 ##  Featured Projects
 
-### Sentinel Apex: AI-Powered Autonomous DNS SOC
+### Sentinel Pro: AI-Powered Autonomous DNS SOC
 - Architected and developed a custom DNS Security Operations Center (SOC) dashboard utilizing local LLM integration for real-time threat intelligence.
 - Developed a dual-protocol (UDP/TCP) DNS interception engine that captures network ingress on Port 5353.
 - Key technical implementations:
