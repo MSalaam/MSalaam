@@ -7,11 +7,12 @@
 ## About Me 
 I'm a Computer Science graduate specializing in Cybersecurity. As a quick learner and perfectionist, I strive for excellence in all technical challenges. My expertise spans across software development, network security, and system administration, with a keen interest in psychology and communication.
 
-## Current Role: Technical Product Manager
-- Lead a cross-functional team of 13 developers, coordinating mobile app development and website projects
-- Interface directly with C-level executives, business stakeholders, and investors to translate business requirements into technical specifications
-- Successfully delivered multiple high-impact projects including e-commerce payment solutions and enterprise websites
-- Drive product roadmap development and sprint planning while ensuring alignment with business objectives
+## Current Role: Remote Incident Support Engineer
+- Remote computer maintenance and troubleshooting
+- Web Scanning in order to find vulnerabilities and report them to concerned Dept
+- Proactively monitor network devices and systems for availability and
+performance to gain the visibility and actionable intelligence needed to manage
+complex and dynamic environment
 
 ##  Certifications
 - CompTIA Security+ Certified
@@ -46,6 +47,9 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
 ![TCPDump](https://img.shields.io/badge/-TCPDump-4B275F?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
 
+### AI & Security Automation
+[![Sentinel-Apex](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Sentinel-Apex&theme=transparent)](https://github.com/MSalaam/Sentinel-Apex)
+
 ### Product Management & Leadership
 - Agile Methodologies
   - Sprint planning and backlog prioritization
@@ -63,6 +67,28 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
   - Architecture decision records (ADRs)
 
 ##  Featured Projects
+
+### Sentinel Apex: AI-Powered Autonomous DNS SOC
+- Architected and developed a custom DNS Security Operations Center (SOC) dashboard utilizing local LLM integration for real-time threat intelligence.
+- Developed a dual-protocol (UDP/TCP) DNS interception engine that captures network ingress on Port 5353.
+- Key technical implementations:
+  - **Local AI Integration**: Integrated Ollama (Llama 3.2) to perform heuristic domain analysis, providing context-aware risk scoring without external data egress.
+  - **Dynamic Threat Posture**: Built an automated "Criticality Gauge" that adjusts system risk profiles based on live malicious hit density.
+  - **Asynchronous Data Pipeline**: Utilized Python multithreading to separate the high-speed DNS listener from the AI analytical engine, ensuring zero latency in request resolution.
+  - **Incident Response UI**: Created a "Security Action Center" for one-click domain isolation and permanent blacklist management.
+- Demonstrated advanced proficiency in Python, network protocol handling, and local LLM deployment for security automation.
+
+### Open Source SIEM Stack Implementation
+- Successfully deployed and configured SOCFortress' comprehensive Open Source SIEM (Security Information and Event Management) infrastructure
+- Integrated and configured multiple security components including:
+  - Wazuh Manager for security monitoring and threat detection
+  - Graylog for centralized log management and analysis
+  - Velociraptor for endpoint monitoring and digital forensics
+  - CoPilot for streamlined security operations
+- Implemented custom Wazuh rules and configurations for enhanced threat detection
+- Configured SSL certificates and security protocols for secure communication between components
+- Demonstrated proficiency in Docker containerization for security tool deployment
+- Executed complex integration processes including Java Keystore configurations and API implementations
 
 ### Dafea Payment Integration Platform
 - Architected and deployed a comprehensive payment integration platform integrating Tap and Moyaser payment gateways
@@ -89,18 +115,6 @@ I'm a Computer Science graduate specializing in Cybersecurity. As a quick learne
   - Satr IT website
   - 12Stages website
   - Level8 Design Portfolio website
-
-### Open Source SIEM Stack Implementation
-- Successfully deployed and configured SOCFortress' comprehensive Open Source SIEM (Security Information and Event Management) infrastructure
-- Integrated and configured multiple security components including:
-  - Wazuh Manager for security monitoring and threat detection
-  - Graylog for centralized log management and analysis
-  - Velociraptor for endpoint monitoring and digital forensics
-  - CoPilot for streamlined security operations
-- Implemented custom Wazuh rules and configurations for enhanced threat detection
-- Configured SSL certificates and security protocols for secure communication between components
-- Demonstrated proficiency in Docker containerization for security tool deployment
-- Executed complex integration processes including Java Keystore configurations and API implementations
 
 ### Security Infrastructure (Internship)
 - Conducted comprehensive network audits and penetration testing
