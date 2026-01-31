@@ -143,7 +143,7 @@ complex and dynamic environment
 
 ##  Portfolio
 
-### AI & Security Automation                    Honey-pot Detection and FIM
+### AI & Security Automation
 [![Sentinel-Pro](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Sentinel-Pro&theme=transparent)](https://github.com/MSalaam/Sentinel-Pro)
 
 ### Honey-pot Detection and FIM
