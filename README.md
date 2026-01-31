@@ -75,6 +75,17 @@ complex and dynamic environment
   - **Incident Response UI**: Created a "Security Action Center" for one-click domain isolation and permanent blacklist management.
 - Demonstrated advanced proficiency in Python, network protocol handling, and local LLM deployment for security automation.
 
+### Vault-Guard: Active Deception & Self-Healing FIM
+- Designed and engineered a proactive File Integrity Monitoring (FIM) system that combines cryptographic validation with automated incident response.
+- Developed a high-fidelity "Honey-Token" environment to detect and mitigate unauthorized file access, tampering, and exfiltration in real-time.
+- Key technical implementations:
+  - **Cryptographic Integrity Engine**: Implemented SHA-256 hashing to establish a "Gold Standard" baseline, enabling the detection of sub-bit modifications in sensitive system assets.
+  - **Self-Healing "Hydra" Logic**: Engineered a multi-threaded recovery loop that automatically restores deleted or moved files, utilizing aggressive retry-logic to overcome OS-level file-locking race conditions.
+  - **Active Deception Strategy**: Deployed "Honey-Tokens" that act as silent alarms, triggering immediate defensive protocols upon adversary interaction.
+  - **Heuristic Threat Mapping**: Built a forensic dashboard that visualizes the "Attack Timeline," categorizing events by severity and providing instant validation of mitigation success.
+  - **Asynchronous Monitoring Pipeline**: Leveraged the Watchdog API to create a non-blocking observer pattern, ensuring consistent system oversight without impacting host performance.
+- Demonstrated expertise in Python automation, system-level file event handling, and the implementation of automated incident response (IR) playbooks.
+
 ### Open Source SIEM Stack Implementation
 - Successfully deployed and configured SOCFortress' comprehensive Open Source SIEM (Security Information and Event Management) infrastructure
 - Integrated and configured multiple security components including:
@@ -132,8 +143,9 @@ complex and dynamic environment
 
 ##  Portfolio
 
-### AI & Security Automation
-[![Sentinel-Apex](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Sentinel-Pro&theme=transparent)](https://github.com/MSalaam/Sentinel-Pro)
+### AI & Security Automation                    Honey-pot Detection and FIM
+[![Sentinel-Pro](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Sentinel-Pro&theme=transparent)](https://github.com/MSalaam/Sentinel-Pro)
+[![Vault-Gaurd](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Vault-Gaurd&theme=transparent)](https://github.com/MSalaam/Vault-Gaurd)
 
 ### Open source Cybersecurity stack implemenation
 [![OSSIEM](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=OSSIEM&theme=transparent)](https://github.com/MSalaam/OSSIEM)
