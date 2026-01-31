@@ -145,7 +145,7 @@ complex and dynamic environment
 
 ### AI & Security Automation                    Honey-pot Detection and FIM
 [![Sentinel-Pro](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Sentinel-Pro&theme=transparent)](https://github.com/MSalaam/Sentinel-Pro)
-[![Vault-Gaurd](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Vault-Gaurd&theme=transparent)](https://github.com/MSalaam/Vault-Gaurd)
+[![Vault-Guard](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=Vault-Guard&theme=transparent)](https://github.com/MSalaam/Vault-Guard)
 
 ### Open source Cybersecurity stack implemenation
 [![OSSIEM](https://github-readme-stats.vercel.app/api/pin/?username=MSalaam&repo=OSSIEM&theme=transparent)](https://github.com/MSalaam/OSSIEM)
